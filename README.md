@@ -35,10 +35,12 @@ cd quotes-frontend
 
 3. Open index.php in your browser via your local server.
 
-⚙️ Configuration
+## ⚙️ Configuration
 If your API is hosted remotely, update the API URL in index.php:
 
+```php
 $apiUrl = "https://your-api-domain.com/quote/today";
+```
 
 ## ♿ Accessibility
 High contrast text and background
